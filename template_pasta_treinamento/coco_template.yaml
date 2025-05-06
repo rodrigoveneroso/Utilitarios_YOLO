@@ -1,0 +1,6 @@
+train: ../nome_pasta/images/train/
+val: ../nome_pasta/images/val
+
+nc: 3
+
+names: ['classe_1','classe_2','classe_3']
